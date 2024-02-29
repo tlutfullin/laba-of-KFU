@@ -1,4 +1,8 @@
 .idea
 .ipynb_checkpoints
+.mypy_cache
+/df
+FinalProject/__pycache__/
+
 
 

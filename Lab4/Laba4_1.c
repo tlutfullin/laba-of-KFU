@@ -13,6 +13,8 @@ void generate_matrix(int matrix[SIZE][SIZE]) {
     }
 }
 
+
+
 // Функция для умножения двух матриц
 void multiply_matrices(int result[SIZE][SIZE], int matrix1[SIZE][SIZE], int matrix2[SIZE][SIZE]) {
     #pragma omp parallel for
